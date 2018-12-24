@@ -4,7 +4,7 @@
   "description": "My NPM Business Card",
   "main": "./bin/index.js",
   "bin": {
-    "ovhemert": "./bin/index.js"
+    "vuevixens": "./bin/index.js"
   },
   "scripts": {
     "test": "standard"
