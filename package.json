@@ -1,0 +1,28 @@
+{
+  "name": "vuevixens",
+  "version": "1.0.3",
+  "description": "My NPM Business Card",
+  "main": "./bin/index.js",
+  "bin": {
+    "ovhemert": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuevixens/npm-card.git"
+  },
+  "author": "Vue Vixens <info@vuevixens.oprg> (https://www.vuevixens.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuevixens/npm-card/issues"
+  },
+  "homepage": "https://github.com/vuevixens/npm-card#readme",
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "npmcard": "^1.0.2"
+  }
+}
