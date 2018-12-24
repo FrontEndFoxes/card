@@ -7,7 +7,7 @@
     "vuevixens": "./bin/index.js"
   },
   "scripts": {
-    "test": "standard"
+    "dev": "node ./bin/index.js"
   },
   "repository": {
     "type": "git",
