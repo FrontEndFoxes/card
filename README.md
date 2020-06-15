@@ -2,7 +2,7 @@
 
 Shows my NPM card in the terminal.
 
-![Example](./assets/images/screenshot.png)
+![Example](./assets/images/ss.png)
 
 ## Try it
 
