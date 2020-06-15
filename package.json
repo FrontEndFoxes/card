@@ -1,10 +1,10 @@
 {
-	"name": "frontendfoxes",
+	"name": "vuevixens",
 	"version": "2.0.0",
 	"description": "My NPM Business Card",
 	"main": "./bin/index.js",
 	"bin": {
-		"frontendfoxes": "./bin/index.js"
+		"vuevixens": "bin/index.js"
 	},
 	"scripts": {
 		"dev": "node ./bin/index.js"
@@ -24,5 +24,9 @@
 	},
 	"dependencies": {
 		"npmcard": "^1.0.2"
-	}
+	},
+	"keywords": [
+		"frontend",
+		"women"
+	]
 }
