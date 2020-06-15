@@ -6,15 +6,15 @@ Shows my NPM card in the terminal.
 
 ## Try it
 
-``` sh
-$ npx vuevixens
+```sh
+$ npx frontendfoxes
 ```
 
 ## Create your own
 
 Use the [npmcard](https://www.npmjs.com/package/npmcard) library.
 
-``` sh
+```sh
 $ npm install npmcard
 ```
 
