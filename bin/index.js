@@ -10,7 +10,6 @@ const user = {
 	github: 'frontendfoxes',
 	twitter: 'frontendfoxes',
 	web: 'https://www.frontendfoxes.org',
-	patreon: 'frontendfoxes',
 	avatar: '|\\__/|',
 	avatar2: '/     \\',
 	avatar3: '/_.~ ~._\\',
@@ -32,7 +31,6 @@ card.setHeader(title(user.name))
 	.addRow([label('     NPM:'), link(`https://www.npmjs.com/~${user.npm}`)])
 	.addRow([label('  GitHub:'), link(`https://github.com/${user.github}`)])
 	.addRow([label(' Twitter:'), link(`https://twitter.com/${user.twitter}`)])
-	.addRow([label(' Patreon:'), link(`https://patreon.com/${user.patreon}`)])
 	.addRow([label('     Web:'), link(`${user.web}`)])
 	.addRowEmpty()
 	.addRow([label('        '), text(`    ${user.avatar}`)])
